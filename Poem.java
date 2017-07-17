@@ -48,12 +48,6 @@ public class Poem
         out.print("to fill my head with ideas - only I don't exactly\n");
         out.print("know what they are! However, SOMEBODY killed\n");
         out.print("SOMETHING: that's clear, at any rate.\"");
-
-        
-        
-        
-        
-        
         //
     }
 }
